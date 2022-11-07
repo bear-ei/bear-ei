@@ -5,7 +5,7 @@ Hi, I'm Sound Shell!, a self-taught web front-end developer from China 🇨🇳.
 - 🔭 I’m currently working on Leaf-x.
 - 🌱 I’m currently learning Serverless & Web front-end technology.
 - 💬 Ask me about anything [here](https://github.com/SoundShell/SoundShell/issues)
-- 📫 How to reach me: sound_shell@outlook.com
+- 📫 How to reach me: bear_ei@outlook.com
 - ⚡ Fun fact: I love to play cars and games.
 
 **Languages and Tools:**
