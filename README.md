@@ -6,7 +6,7 @@ Hi, I'm Bearei!, a self-taught web front-end developer from China 🇨🇳.
 - 🌱 I’m currently learning Serverless & Web front-end technology.
 - 💬 Ask me about anything [here](https://github.com/bear-ei/bearei/issues)
 - 📫 How to reach me: bear_ei@outlook.com
-- ⚡ Fun fact: I love to play cars and games.
+- ⚡ Fun fact: I like cars and games.
 
 **Languages and Tools:**
 
