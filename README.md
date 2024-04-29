@@ -1,6 +1,6 @@
 ### Hi there,I'm Bearei! 👋
 
-Hi, I'm Bearei!, a self-taught web front-end developer from China 🇨🇳.
+Hi, I'm Bearei! I'm an independent developer from China.
 
 **Languages and Tools:**
 
