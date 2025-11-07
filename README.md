@@ -1,6 +1,10 @@
 ### Hi there,I'm Bearei! 👋
 
-I am an independent developer based in China. My professional journey includes serving as a front-end engineer, back-end engineer, project leader, and Chief Technology Officer (CTO) at various internet companies. Drawing on this rich blend of experiences, I am now passionately exploring the path of independent development...
+I am an independent developer based in China. 
+
+My professional journey includes serving as a front-end engineer, back-end engineer, project leader, and Chief Technology Officer (CTO) at various internet companies. 
+
+Drawing on this rich blend of experiences, I am now passionately exploring the path of independent development...
 
 **Languages and Tools:**
 
